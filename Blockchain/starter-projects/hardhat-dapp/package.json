@@ -1,0 +1,26 @@
+{
+  "name": "hardhat-dapp-template",
+  "version": "1.0.0",
+  "description": "A modern Ethereum DApp starter template with Hardhat",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js",
+    "node": "hardhat node",
+    "coverage": "hardhat coverage"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "@chainlink/contracts": "^0.6.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^4.0.10",
+    "ethers": "^6.7.0",
+    "hardhat": "^2.17.1",
+    "solidity-coverage": "^0.8.4"
+  }
+}
