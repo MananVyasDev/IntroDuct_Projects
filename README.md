@@ -3,6 +3,9 @@
 [![Stars](https://img.shields.io/github/stars/MananVyasDev/IntroDuct_Projects?style=social)](https://github.com/MananVyasDev/IntroDuct_Projects/stargazers)
 [![Forks](https://img.shields.io/github/forks/MananVyasDev/IntroDuct_Projects?style=social)](https://github.com/MananVyasDev/IntroDuct_Projects/network/members)
 [![Contributors](https://img.shields.io/github/contributors/MananVyasDev/IntroDuct_Projects?style=social)](https://github.com/MananVyasDev/IntroDuct_Projects/graphs/contributors)
+[![CI/CD](https://github.com/MananVyasDev/IntroDuct_Projects/actions/workflows/ci.yml/badge.svg)](https://github.com/MananVyasDev/IntroDuct_Projects/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Discussions](https://img.shields.io/github/discussions/MananVyasDev/IntroDuct_Projects)](https://github.com/MananVyasDev/IntroDuct_Projects/discussions)
 
 Welcome to IntroDuct_Projects - Your comprehensive guide to kickstarting your tech career! This repository is carefully curated to provide detailed project ideas and learning paths across various technology domains. Whether you're a beginner or looking to switch careers, we've got you covered! 
 
